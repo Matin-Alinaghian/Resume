@@ -1,0 +1,8 @@
+.freebuff/
+.kilo/
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
